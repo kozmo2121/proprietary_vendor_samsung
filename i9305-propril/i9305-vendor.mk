@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libakm.so:system/lib/libakm.so \
     $(LOCAL_PATH)/proprietary/system/lib/libatparser.so:system/lib/libatparser.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libcordon.so:system/lib/libcordon.so \
     $(LOCAL_PATH)/proprietary/system/lib/libcsd-client.so:system/lib/libcsd-client.so \
     $(LOCAL_PATH)/proprietary/system/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     $(LOCAL_PATH)/proprietary/system/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
@@ -49,6 +50,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/libidl.so:system//vendor/lib/libidl.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    $(LOCAL_PATH)/proprietary/system/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     $(LOCAL_PATH)/proprietary/system/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
